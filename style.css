@@ -1,0 +1,54 @@
+body{
+    background-image: url("birthday.gif");
+    background-size: 100vw 180vh;
+    opacity:0.5;
+}
+
+.txt{
+    color:#a3a9a3;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+}
+
+.title{
+    color:#686c68;
+}
+.desc{
+    color:#686c68;
+}
+
+.add{
+    color:rgb(206, 193, 184)
+}
+
+.text-input{
+    width:100%;
+    border-radius:4px;
+    color:brown;
+    font-weight: bold;
+}
+
+span{
+    display:block;
+    width:100%;
+    padding-top:0.5rem;
+    margin-top:2rem;
+    border-radius:4px;
+    text-align:center;
+    background-color:rgb(100, 46, 59);
+    color:brown;
+}
+
+.btndiv{
+    width:10%;
+    margin:auto;
+}
+
+.flexbox{
+    display:flex;
+}
+
+.delete{
+    margin-top:2rem;
+}
